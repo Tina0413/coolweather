@@ -1,5 +1,4 @@
 package com.hello.coolweather.db;
-//import org.litepal.crud.DataSupport;
 
 import org.litepal.crud.DataSupport;
 
